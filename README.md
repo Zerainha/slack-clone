@@ -36,7 +36,7 @@ yarn install
 npm install
 
 # executar o projeto
-yarn sart ou npm run start
+yarn start ou npm run start
 ```
 
 # Autor
